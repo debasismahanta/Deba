@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning Deep learning, Nautural Language Processing.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
-- 📫 How to reach me: mohapatrasatyanarayan30@gmail.com
+- 📫 How to reach me: debasis07mahanta@gmail.com
 - 💭 Quote: "PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE."
 - 🥅 2024 Goals: To be more hard work, hard work.
-- ⚡ Fun fact: I'm a graduate in physics.
+- ⚡ Fun fact: I'm a post graduate in IT.
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=satya &logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
