@@ -1,9 +1,9 @@
-## Hello Data Science Learner 👋
+## Hello FRONT-END DEVELOPER Learner 👋
 
 <img align= "right" alt="GIF" width="300px" height="150px" src="https://github.com/satya18181/satya18181/blob/main/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif">
 
 
-- 🔭 I’m currently working on Data analytics projects.
+- 🔭 I’m currently working on Front-end projects.
 - 🌱 I’m currently learning Deep learning, Nautural Language Processing.
 - 👯 I’m looking to collaborate on any end to end Data science project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
