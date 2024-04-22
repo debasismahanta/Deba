@@ -26,7 +26,7 @@
 <img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="mongodb" width="70" height="40"/>&nbsp;&nbsp;  
 
 <br>
-<img height="30" src="https://img.shields.io/badge/Satya's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Debasis's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
 </p>
 <p>&nbsp;
@@ -35,7 +35,7 @@
 <summary>GitHub Trophies 🏆</summary>
 <p align="left">
   <a href="https://github.com/satya18181/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=satya &theme=gruvbox&layout=compact&title_color=00FF00"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=debasismahanta &theme=gruvbox&layout=compact&title_color=00FF00"/>
   </a>
 </p>
 </details>
@@ -47,8 +47,8 @@ Show ❤️ By Starring My <a href='https://github.com/satya18181?tab=repositori
 <br>
 
 <h4 align="left">
-    <img align="center" src="https://github.com/satya18181" height="30px">Connect with me &nbsp; 👉 &nbsp;  
-        <a href="https://www.linkedin.com/in/satyanmohapatra/">
-        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Satyanarayan Mohapatra linkedin" width="24px" />
+    <img align="center" src="" height="30px">Connect with me &nbsp; 👉 &nbsp;  
+        <a href="">
+        <img align="center"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Debasis Mahanta linkedin" width="24px" />
     </a>
 </h4>
