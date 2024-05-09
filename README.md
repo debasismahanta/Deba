@@ -4,27 +4,19 @@
 
 
 - 🔭 I’m currently working on Front-end projects.
-- 🌱 I’m currently learning Deep learning, Nautural Language Processing.
-- 👯 I’m looking to collaborate on any end to end Data science project.
+- 🌱 I’m currently learning React JS, HTML5, CSS3, Bootstrap, jQuery, ES6.
+- 👯 I’m looking to collaborate on any end to end Front-end project.
 - 💬 Ask me about anything, I ll try my best to share my knowledge.
 - 📫 How to reach me: debasis07mahanta@gmail.com
-- 💭 Quote: "PREDICTING THE FUTURE ISN’T MAGIC, IT’S ARTIFICIAL INTELLIGENCE."
+- 💭 Quote: "Website without visitors is like a ship lost in the horizon."
 - 🥅 2024 Goals: To be more hard work, hard work.
 - ⚡ Fun fact: I'm a post graduate in IT.
 <br>
 <img height="30" src="https://img.shields.io/badge/Languages and  tools- 🧮-lightblue.svg?&style=for-the-badge&logo=satya &logoColor=blue" />
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
 <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="vscode" width="40" height="40"/>&nbsp;&nbsp;
-<img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="40" height="40"/> &nbsp;
-<img alt="jupyter"  src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg"width="50" height="40" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="power bi" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="Excel" width="50" height="40"/><br>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-logo.svg" alt="mysql " width="40" height="40"/>    
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;&nbsp;  
-<img src="https://cdnl.tblsft.com/sites/default/files/pages/tableau_cmyk_2015.png" alt="mongodb" width="70" height="40"/>&nbsp;&nbsp;  
 
+<img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
 <br>
 <img height="30" src="https://img.shields.io/badge/Debasis's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
