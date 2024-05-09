@@ -16,7 +16,6 @@
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
 <img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
 
-<img alt="github"  src="https://img.icons8.com/ios-glyphs/240/000000/github.png"width="40" height="40"> &nbsp;
 <br>
 <img height="30" src="https://img.shields.io/badge/Debasis's GitHub Status- 🤓-lightgreen.svg?&style=for-the-badge&logo=satay&logoColor=blue" />
 <p>
